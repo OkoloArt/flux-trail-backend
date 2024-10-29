@@ -18,12 +18,8 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "paths": {
-      "@app/dto": [
-        "libs/dto/src"
-      ],
-      "@app/dto/*": [
-        "libs/dto/src/*"
-      ]
+      "@app/dto": ["libs/dto/src"],
+      "@app/dto/*": ["libs/dto/src/*"]
     }
   }
 }
